@@ -11,4 +11,3 @@ mmcv
 pycocotools
 gdown
 tensorflow
-opencv-python
